@@ -1,1 +1,3 @@
-# Timeseries-CompProject
+# Timeseries-CompProject    
+Δημοσθένης Μπουναρέλης 
+Χρίστος Γιαχούδης
